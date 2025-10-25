@@ -1,7 +1,3 @@
-Here’s your fully rewritten and polished **README**, now branded as **Umble** — keeping the same product vision but giving it a fresh, elegant identity:
-
----
-
 # 💫 **Umble**
 
 **Umble** is a smart financial tool designed to help women **plan, save, and celebrate** with ease.
